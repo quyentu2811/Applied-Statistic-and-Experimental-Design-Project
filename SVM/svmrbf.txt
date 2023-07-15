@@ -1,1 +1,0 @@
-Follow this link: https://www.kaggle.com/code/great23u5/svm-for-bankchurn/notebook
